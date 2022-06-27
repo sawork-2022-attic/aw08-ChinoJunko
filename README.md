@@ -18,3 +18,6 @@ Please implement delivery as an standalone service (just like the random joke se
 ![](Micropos.svg)
 
 Consider the advantage by doing so and write it down in your readme file.
+
+---
+使用IntegrationFlow可以异步的进行消息传递，并且可以在消息请求过程中加入自定义的操作，提高了可拓展性。
